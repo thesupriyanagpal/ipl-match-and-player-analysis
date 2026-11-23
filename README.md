@@ -36,15 +36,6 @@ The archive ends in 2019. Team, venue, weather, and season differences can affec
 
 [Source data and reference notebook](https://github.com/iyanagpal/Exploratory-Data-Analysis-Sports/tree/d9bf3bfdf64c9f5da3da83cd5eb8a0a35246ddb8)
 
-## Run Locally
-
-The dashboard uses HTML, CSS, and JavaScript with bundled data. From the repository root, start a local server with Python 3:
-
-```bash
-python -m http.server 8000
-```
-
-Open [http://localhost:8000/ipl/](http://localhost:8000/ipl/).
 
 ## Repository Structure
 
